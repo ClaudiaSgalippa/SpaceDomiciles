@@ -2,8 +2,8 @@
 
 E se potessi comprare casa su Marte? SpaceDomiciles è una web app full-stack che simula proprio questo: un marketplace immobiliare interplanetario dove gli utenti possono esplorare pianeti e corpi celesti, scoprirne i dettagli e simulare l'acquisto di una proprietà spaziale — certificato incluso.
 
-Il progetto nasce come lavoro di gruppo durante il corso **Boolean Web Developer**, e successivamente è stato riadattato come applicazione portfolio per mostrare competenze su frontend, backend e integrazione API REST.
-
+Il progetto nasce come lavoro di gruppo durante il corso **Boolean Web Developer**.
+Realizzazione frontend (React, Vite, JavaScript, CSS) e backend (Node.js, Express, MySQL2) di un e-commerce intergalattico,  un catalogo dinamico di pianeti e sistemi solari (raggiungibili tramite API REST) dove si possono visualizzare informazioni dettagliate su ogni corpo celeste e aggiungere le proprietà al carrello, simulando un acquisto. Terminata l’operazione, si riceve il proprio certificato di proprietà spaziale tramite e-mail.
 ---
 
 ## 🌍 Do you wanna try? 💻
